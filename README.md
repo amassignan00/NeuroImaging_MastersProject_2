@@ -1,19 +1,9 @@
-<h1 align="center">🚀 Nome del Progetto</h1>
-
 <p align="center">
-  <em>Breve descrizione del progetto (1 riga chiara e catchy)</em>
+  <img src="header_neuro.png" width="100%" alt="Neuroimaging Pipeline Header">
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success.svg" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/python-3.10+-yellow.svg" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen.svg" /></a>
-</p>
+# fNIRS Data Analysis & Image Reconstruction
 
-# NeuroImaging_MastersProject_2
-
-fNIRS Data Analysis & Image Reconstruction
 This repository contains the MATLAB implementation for processing functional Near-Infrared Spectroscopy (fNIRS) data and performing 3D image reconstruction. The project was developed as part of the Imaging for Neuroscience course (AA 2023-2024).
 
 📌 Project Overview
